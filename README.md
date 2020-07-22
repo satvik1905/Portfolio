@@ -21,12 +21,7 @@ Later on add some javascript for animation and designing.
 - [Hackerblock](https://hack.codingblocks.com/)
 
 ## For the Future
-I'm in the process of learning javascript So,i didn't add any of it 
-If you can help us with these.Please don't hesitate to open a pull request.
-- Add a page loader
-- Add some Animation
-- Enable Dark mode
-- Add some more Section
+I am trying to add more features. I am still learning various technologies, will update the design in the future.
 
 ## Reference 
-Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
+Idea is taken from [Ajit Verma]  https://github.com/AjitVerma15
